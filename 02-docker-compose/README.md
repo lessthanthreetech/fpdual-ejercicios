@@ -14,7 +14,7 @@ Este ejercicio consiste en crear un fichero `docker-compose.yaml` que permita or
     - Exponer el puerto correspondiente para que el backend sea accesible internamente.
 
 2. **Base de datos**:
-    - Utilizar una imagen oficial de base de datos (por ejemplo, `postgres` o `mysql`).
+    - Utilizar una imagen oficial de base de datos (por ejemplo `mysql`).
     - Configurar las credenciales de acceso (usuario, contraseña y nombre de la base de datos) mediante variables de entorno.
     - Mapear un volumen para persistir los datos.
 
